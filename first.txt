@@ -5,4 +5,6 @@ Gitの練習をしていきます。
 トークンの生成に成功しました。
 
 git add
-git commit
+git commit 
+最終行です
+
